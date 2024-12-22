@@ -1,0 +1,7 @@
+export var BarChartType;
+(function (BarChartType) {
+    BarChartType["Standard"] = "standard";
+    BarChartType["Normalized"] = "normalized";
+    BarChartType["Stacked"] = "stacked";
+})(BarChartType || (BarChartType = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYmFyLWNoYXJ0LXR5cGUuZW51bS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL3RvbW15ZGVha3Mvbmd4LWNoYXJ0cy9zcmMvbGliL2Jhci1jaGFydC90eXBlcy9iYXItY2hhcnQtdHlwZS5lbnVtLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE1BQU0sQ0FBTixJQUFZLFlBSVg7QUFKRCxXQUFZLFlBQVk7SUFDdEIscUNBQXFCLENBQUE7SUFDckIseUNBQXlCLENBQUE7SUFDekIsbUNBQW1CLENBQUE7QUFDckIsQ0FBQyxFQUpXLFlBQVksS0FBWixZQUFZLFFBSXZCIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGVudW0gQmFyQ2hhcnRUeXBlIHtcbiAgU3RhbmRhcmQgPSAnc3RhbmRhcmQnLFxuICBOb3JtYWxpemVkID0gJ25vcm1hbGl6ZWQnLFxuICBTdGFja2VkID0gJ3N0YWNrZWQnXG59XG4iXX0=

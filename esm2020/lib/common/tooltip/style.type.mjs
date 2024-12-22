@@ -1,0 +1,6 @@
+export var StyleTypes;
+(function (StyleTypes) {
+    StyleTypes["popover"] = "popover";
+    StyleTypes["tooltip"] = "tooltip";
+})(StyleTypes || (StyleTypes = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUudHlwZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL3RvbW15ZGVha3Mvbmd4LWNoYXJ0cy9zcmMvbGliL2NvbW1vbi90b29sdGlwL3N0eWxlLnR5cGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsTUFBTSxDQUFOLElBQVksVUFHWDtBQUhELFdBQVksVUFBVTtJQUNwQixpQ0FBbUIsQ0FBQTtJQUNuQixpQ0FBbUIsQ0FBQTtBQUNyQixDQUFDLEVBSFcsVUFBVSxLQUFWLFVBQVUsUUFHckIiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZW51bSBTdHlsZVR5cGVzIHtcbiAgcG9wb3ZlciA9ICdwb3BvdmVyJyxcbiAgdG9vbHRpcCA9ICd0b29sdGlwJ1xufVxuIl19
